@@ -1,7 +1,0 @@
-leo_erc_teleop
-/home/styops/Documents/rover-sim/devel/.private/leo_erc_teleop/cmake.lock /home/styops/Documents/rover-sim/devel/./cmake.lock
-/home/styops/Documents/rover-sim/devel/.private/leo_erc_teleop/lib/leo_erc_teleop/scripts/joy_pdu /home/styops/Documents/rover-sim/devel/lib/leo_erc_teleop/scripts/joy_pdu
-/home/styops/Documents/rover-sim/devel/.private/leo_erc_teleop/lib/leo_erc_teleop/scripts/cmake.lock /home/styops/Documents/rover-sim/devel/lib/leo_erc_teleop/scripts/cmake.lock
-/home/styops/Documents/rover-sim/devel/.private/leo_erc_teleop/lib/pkgconfig/leo_erc_teleop.pc /home/styops/Documents/rover-sim/devel/lib/pkgconfig/leo_erc_teleop.pc
-/home/styops/Documents/rover-sim/devel/.private/leo_erc_teleop/share/leo_erc_teleop/cmake/leo_erc_teleopConfig-version.cmake /home/styops/Documents/rover-sim/devel/share/leo_erc_teleop/cmake/leo_erc_teleopConfig-version.cmake
-/home/styops/Documents/rover-sim/devel/.private/leo_erc_teleop/share/leo_erc_teleop/cmake/leo_erc_teleopConfig.cmake /home/styops/Documents/rover-sim/devel/share/leo_erc_teleop/cmake/leo_erc_teleopConfig.cmake
