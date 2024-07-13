@@ -209,7 +209,7 @@
     </xacro:if>
 
     <joint name="${joint_prefix}camera_joint" type="fixed">
-      <origin xyz="0.0971 0 -0.0427" rpy="0 0 0"/>
+      <origin xyz="0.0971 0 -0.0427" rpy="0 0.2094 0"/>
       <parent link="${link_prefix}base_link"/>
       <child link="${link_prefix}camera_frame"/>
     </joint>
@@ -323,7 +323,7 @@
           </image>
           <clip>
             <near>0.02</near>
-            <far>8</far>
+            <far>300</far>
           </clip>
           <noise>
             <type>gaussian</type>
